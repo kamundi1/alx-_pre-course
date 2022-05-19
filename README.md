@@ -1,1 +1,1 @@
-this contains my first git project
+Updated the Readme file from the git hub webpage
